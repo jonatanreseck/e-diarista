@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jonatanreseck/e-diarista/resources/logo.svg" alt="logo" height="50"/>
+  <img src="https://github.com/jonatanreseck/e-diarista/tree/main/resources/logo.svg" alt="logo" height="50"/>
 </p>
 
 <h1 align="center">
@@ -32,7 +32,7 @@ E-diaristas é uma aplicação que lista as diaristas que estão perto de você.
 
 ### ✅ Demonstração
 
-<img src="https://github.com/jonatanreseck/e-diarista/resources/app.png" />
+<img src="https://github.com/jonatanreseck/e-diarista/tree/main/resources/app.png" />
 
 ### ⚙ Pré-requisitos
 
