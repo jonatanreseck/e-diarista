@@ -32,7 +32,7 @@ E-diaristas é uma aplicação que lista as diaristas que estão perto de você.
 
 ### ✅ Demonstração
 
-<img src="https://github.com/jonatanreseck/e-diarista/tree/main/resources/app.png" />
+<img src="https://raw.githubusercontent.com/jonatanreseck/e-diarista/main/resources/app.png" />
 
 ### ⚙ Pré-requisitos
 
