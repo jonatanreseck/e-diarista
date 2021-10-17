@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jonatanreseck/e-diarista/tree/main/resources/logo.svg" alt="logo" height="50"/>
+  <img src="https://raw.githubusercontent.com/jonatanreseck/e-diarista/main/resources/logo.svg" alt="logo" height="50"/>
 </p>
 
 <h1 align="center">
