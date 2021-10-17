@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://github.com/jonatanreseck/e-diarista/tree/main/resources/logo.svg" alt="logo" height="50"/>
-  ![alt text](https://github.com/jonatanreseck/e-diarista/tree/main/resources/logo.svg?raw=true)
 </p>
 
 <h1 align="center">
